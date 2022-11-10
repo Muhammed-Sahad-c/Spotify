@@ -1,0 +1,2 @@
+# Spotify
+spotify homepage static
